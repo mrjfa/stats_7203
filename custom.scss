@@ -1,0 +1,23 @@
+/*-- scss:rules --*/
+
+.text-center {
+  text-align: center;
+}
+
+button {
+  background-color: #04AA6D;
+  color: black;
+  border: 3px solid #04AA6D; /* Green */
+  border-radius: 2px;
+  padding: 15px 15px 0px 15px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  transition-duration: 0.3s;
+}
+
+button:hover {
+  background-color: white; /* Green */
+  color: black;
+}

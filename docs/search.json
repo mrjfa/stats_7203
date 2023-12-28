@@ -2,23 +2,114 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Title of Book",
+    "title": "Statistics",
     "section": "",
-    "text": "Preface\nThis is a Quarto book.\nTo learn more about Quarto books visit https://quarto.org/docs/books.\n\n1 + 1\n\n[1] 2\n\n\nHAHAHAHAHA"
+    "text": "Preface"
   },
   {
-    "objectID": "intro.html",
-    "href": "intro.html",
-    "title": "1  Introduction",
+    "objectID": "ch1.html#yeee",
+    "href": "ch1.html#yeee",
+    "title": "1  Analyzing One-Variable Data",
+    "section": "1.1 Yeee",
+    "text": "1.1 Yeee"
+  },
+  {
+    "objectID": "ch2.html",
+    "href": "ch2.html",
+    "title": "2  Modeling One-Varible Data",
     "section": "",
     "text": "This is a book created from markdown and executable code.\nSee Knuth (1984) for additional discussion of literate programming.\n\n1 + 1\n\n[1] 2\n\n\n\n\n\n\nKnuth, Donald E. 1984. “Literate Programming.” Comput. J. 27 (2): 97–111. https://doi.org/10.1093/comjnl/27.2.97."
   },
   {
-    "objectID": "summary.html",
-    "href": "summary.html",
-    "title": "2  Summary",
+    "objectID": "ch3.html#relationships-between-two-categorical-variables",
+    "href": "ch3.html#relationships-between-two-categorical-variables",
+    "title": "3  Analyzing Two-Variable Data",
+    "section": "3.1 Relationships Between Two Categorical Variables",
+    "text": "3.1 Relationships Between Two Categorical Variables\n\n\nActivity\n\n\nProblem Set"
+  },
+  {
+    "objectID": "ch3.html#relationships-between-two-quantitative-variables",
+    "href": "ch3.html#relationships-between-two-quantitative-variables",
+    "title": "3  Analyzing Two-Variable Data",
+    "section": "3.2 Relationships Between Two Quantitative Variables",
+    "text": "3.2 Relationships Between Two Quantitative Variables"
+  },
+  {
+    "objectID": "ch3.html#correlation",
+    "href": "ch3.html#correlation",
+    "title": "3  Analyzing Two-Variable Data",
+    "section": "3.3 Correlation",
+    "text": "3.3 Correlation"
+  },
+  {
+    "objectID": "ch3.html#regression-lines",
+    "href": "ch3.html#regression-lines",
+    "title": "3  Analyzing Two-Variable Data",
+    "section": "3.4 Regression Lines",
+    "text": "3.4 Regression Lines"
+  },
+  {
+    "objectID": "ch3.html#the-least-square-regression-line",
+    "href": "ch3.html#the-least-square-regression-line",
+    "title": "3  Analyzing Two-Variable Data",
+    "section": "3.5 The Least-Square Regression Line",
+    "text": "3.5 The Least-Square Regression Line"
+  },
+  {
+    "objectID": "ch3.html#assessing-a-regression-model",
+    "href": "ch3.html#assessing-a-regression-model",
+    "title": "3  Analyzing Two-Variable Data",
+    "section": "3.6 Assessing a Regression Model",
+    "text": "3.6 Assessing a Regression Model"
+  },
+  {
+    "objectID": "ch4.html",
+    "href": "ch4.html",
+    "title": "4  Collecting Data",
     "section": "",
-    "text": "In summary, this book has no content whatsoever.\n\n1 + 1\n\n[1] 2"
+    "text": "This is a book created from markdown and executable code.\nSee Knuth (1984) for additional discussion of literate programming.\n\n1 + 1\n\n[1] 2\n\n\n\n\n\n\nKnuth, Donald E. 1984. “Literate Programming.” Comput. J. 27 (2): 97–111. https://doi.org/10.1093/comjnl/27.2.97."
+  },
+  {
+    "objectID": "ch5.html",
+    "href": "ch5.html",
+    "title": "5  Probability",
+    "section": "",
+    "text": "This is a book created from markdown and executable code.\nSee Knuth (1984) for additional discussion of literate programming.\n\n1 + 1\n\n[1] 2\n\n\n\n\n\n\nKnuth, Donald E. 1984. “Literate Programming.” Comput. J. 27 (2): 97–111. https://doi.org/10.1093/comjnl/27.2.97."
+  },
+  {
+    "objectID": "ch6.html",
+    "href": "ch6.html",
+    "title": "6  Random Variables",
+    "section": "",
+    "text": "This is a book created from markdown and executable code.\nSee Knuth (1984) for additional discussion of literate programming.\n\n1 + 1\n\n[1] 2\n\n\n\n\n\n\nKnuth, Donald E. 1984. “Literate Programming.” Comput. J. 27 (2): 97–111. https://doi.org/10.1093/comjnl/27.2.97."
+  },
+  {
+    "objectID": "ch7.html",
+    "href": "ch7.html",
+    "title": "7  Sampling Distributions",
+    "section": "",
+    "text": "This is a book created from markdown and executable code.\nSee Knuth (1984) for additional discussion of literate programming.\n\n1 + 1\n\n[1] 2\n\n\n\n\n\n\nKnuth, Donald E. 1984. “Literate Programming.” Comput. J. 27 (2): 97–111. https://doi.org/10.1093/comjnl/27.2.97."
+  },
+  {
+    "objectID": "ch8.html",
+    "href": "ch8.html",
+    "title": "8  Estimating a Parameter",
+    "section": "",
+    "text": "This is a book created from markdown and executable code.\nSee Knuth (1984) for additional discussion of literate programming.\n\n1 + 1\n\n[1] 2\n\n\n\n\n\n\nKnuth, Donald E. 1984. “Literate Programming.” Comput. J. 27 (2): 97–111. https://doi.org/10.1093/comjnl/27.2.97."
+  },
+  {
+    "objectID": "ch9.html",
+    "href": "ch9.html",
+    "title": "9  Testing a Claim",
+    "section": "",
+    "text": "This is a book created from markdown and executable code.\nSee Knuth (1984) for additional discussion of literate programming.\n\n1 + 1\n\n[1] 2\n\n\n\n\n\n\nKnuth, Donald E. 1984. “Literate Programming.” Comput. J. 27 (2): 97–111. https://doi.org/10.1093/comjnl/27.2.97."
+  },
+  {
+    "objectID": "ch10.html",
+    "href": "ch10.html",
+    "title": "10  Comparing Two Populations or Treatments",
+    "section": "",
+    "text": "This is a book created from markdown and executable code.\nSee Knuth (1984) for additional discussion of literate programming.\n\n1 + 1\n\n[1] 2\n\n\n\n\n\n\nKnuth, Donald E. 1984. “Literate Programming.” Comput. J. 27 (2): 97–111. https://doi.org/10.1093/comjnl/27.2.97."
   },
   {
     "objectID": "references.html",

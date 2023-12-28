@@ -1,0 +1,33 @@
+# Analyzing Two-Variable Data
+
+| Col1 | Col2 | Col3 |
+|------|------|------|
+| haha | jaja | kkkk |
+| 1    | 2    | 3    |
+| 55   | 555  | 5555 |
+
+## Relationships Between Two Categorical Variables
+
+::: text-center
+<button onclick="document.location=&#39;https://www.youtube.com/&#39;">
+
+Activity
+
+</button>
+
+<button onclick="document.location=&#39;https://www.youtube.com/&#39;">
+
+Problem Set
+
+</button>
+:::
+
+## Relationships Between Two Quantitative Variables
+
+## Correlation
+
+## Regression Lines
+
+## The Least-Square Regression Line
+
+## Assessing a Regression Model
