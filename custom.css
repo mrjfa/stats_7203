@@ -9,7 +9,7 @@ button {
   color: black;
   border: 3px solid #04AA6D; /* Green */
   border-radius: 2px;
-  padding: 15px 15px 0px 15px;
+  padding: 15px 15px auto 15px;
   text-align: center;
   text-decoration: none;
   display: inline-block;
